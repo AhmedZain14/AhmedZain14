@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zain</h1>
-<h3 align="center">A passionate frontend developer[React Js] <br/> from Egypt</h3>
+<h3 align="center">A Passionate Frontend Developer[React Js] <br/> From Egypt</h3>
 
 - 🔭 I am currently working on developing my skills
 
-- 🌱 I’m currently learning React Js
+- 🌱 I’m Currently Learning React Js
 
-- 💬 Ask me about Programming,Html,Css,Js,BootStrap
+- 💬 Ask Me About Programming,Html,Css,Js,BootStrap
 
-- 📫 How to reach me 01066842021az@gmail.com
+- 📫 How To Reach Me 01066842021az@gmail.com
 
-- 📄 Know about my experiences [https://github.com/spiderghaly](https://github.com/spiderghaly)
+- 📄 Know About My Experiences [https://github.com/spiderghaly](https://github.com/spiderghaly)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
