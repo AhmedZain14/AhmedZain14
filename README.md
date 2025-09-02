@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zain</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer[React Js] from Egypt</h3>
 
-- 🔭 I’m currently working on Developing my skills
+- 🔭 I am currently working on developing my skills
 
 - 🌱 I’m currently learning React Js
 
