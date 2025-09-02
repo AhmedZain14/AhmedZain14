@@ -9,8 +9,7 @@
 
 - 📫 How To Reach Me 01066842021az@gmail.com
 
-- 📄 Know About My Experiences [https://github.com/spiderghaly]<a href="https://github.com/spiderghaly"><img width="50px" height="50px" alt="image" src="https://github.com/user-attachments/assets/082e3371-572e-448e-af23-e98aabc5e9bc" />
-</a>
+- 📄 Know About My Experiences [https://github.com/spiderghaly]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
