@@ -5,7 +5,9 @@
 
 - 🌱 I’m Currently Learning React Js
 
-- 🥷 Programming Skills: Html,Css,Js,BootStrap
+- 🥷 Programming Skills : Html,Css,Js,BootStrap,Git&gitHub
+- 👘 Personal Skills    : Critical Thinking,Teamwork,Communication Skills,
+                           Collaboration,Adaptability,Creativity
 
 - 📫 How To Reach Me 01066842021az@gmail.com
 
