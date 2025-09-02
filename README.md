@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zain</h1>
-<h3 align="center">A passionate frontend developer[React Js] from Egypt</h3>
+<h3 align="center">A passionate frontend developer[React Js] <br/> from Egypt</h3>
 
 - 🔭 I am currently working on developing my skills
 
