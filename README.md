@@ -5,7 +5,8 @@
 
 - 🌱 I’m Currently Learning React Js
 
-- <h3>🥷 Programming Skills</h3> : Html,Css,Js,BootStrap,Git&gitHub
+- 🥷 Programming Skills : Html,Css,Js,BootStrap,Git&gitHub
+
 - 👘 Personal Skills    : Critical Thinking,Teamwork,Communication Skills,
                            Collaboration,Adaptability,Creativity
 
