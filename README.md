@@ -5,7 +5,7 @@
 
 - 🌱 I’m Currently Learning React Js
 
-- <span style="font-size:50;">🥷</span> Ask Me About Programming,Html,Css,Js,BootStrap
+- 🥷 Programming Skills: Html,Css,Js,BootStrap
 
 - 📫 How To Reach Me 01066842021az@gmail.com
 
