@@ -1,8 +1,8 @@
 # Hi there! I'm Ahmed Zain 👋
-### 🚀 Frontend Developer (HTML | CSS | JS | Bootstrap)
+### 🚀 Frontend Developer (HTML5 | CSS3 | JS | Bootstrap5)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Building+Responsive+Websites;HTML5+%2F+CSS3+Expert;Js,Bootstrap5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Building+Responsive+Websites;HTML5+%2F+CSS3+Expert;Js+%2F+Bootstrap5" alt="Typing SVG" />
 </p>
 
 ---
