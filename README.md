@@ -46,5 +46,7 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AhmedZain14/count.svg" alt="Visitor Counter">
+</p>
 
