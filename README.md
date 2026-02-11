@@ -45,8 +45,6 @@
 <a href="https://wa.me/201016848664?text=أهلاً%20أحمد%20زين،%20أنا%20دخلت%20على%20بروفايلك%20في%20GitHub%20وحابب%20أتواصل%20معاك%20بخصوص%20فرصة%20عمل%20أو%20تعاون%20مشترك." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/AhmedZain14/count.svg" alt="Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=AhmedZain14&label=Profile%20Views&color=25D366&style=flat-square" alt="Visitor Counter" />
 </p>
-
