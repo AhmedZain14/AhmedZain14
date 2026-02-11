@@ -32,6 +32,7 @@
 | **Template One (HTML/CSS)** | `HTML` `CSS` | [🔗 View Code](https://github.com/AhmedZain14/Html_And_Css_Template_One) |
 | **Kasper Design (Template Two)** | `HTML` `CSS` | [🔗 View Code](https://github.com/AhmedZain14/Html_And_Css_Template_Two) |
 | **Elzero Design (Template Three)** | `HTML` `CSS` | [🔗 View Code](https://github.com/AhmedZain14/Html_And_Css_Template_Three) |
+| **Movie App Design ** | `HTML` `CSS` `js` | [🔗 View Code](https://ahmedzain14.github.io/Movie-App/) |
 
 ---
 
